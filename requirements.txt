@@ -17,10 +17,13 @@ distro==1.9.0
 durationpy==0.10
 faiss-cpu==1.11.0.post1
 fastapi==0.116.1
+ffmpeg==1.4
+ffmpeg-python==0.2.0
 ffmpy==0.6.1
 filelock==3.18.0
 flatbuffers==25.2.10
 fsspec==2025.7.0
+future==1.0.0
 google-auth==2.40.3
 googleapis-common-protos==1.70.0
 gradio==5.41.1
@@ -39,6 +42,7 @@ importlib_metadata==8.7.0
 importlib_resources==6.5.2
 Jinja2==3.1.6
 jiter==0.10.0
+joblib==1.5.1
 jsonpatch==1.33
 jsonpointer==3.0.0
 jsonschema==4.25.0
@@ -97,7 +101,10 @@ rsa==4.9.1
 ruff==0.12.8
 safehttpx==0.1.6
 safetensors==0.6.1
+scikit-learn==1.7.1
+scipy==1.16.1
 semantic-version==2.10.0
+sentence-transformers==5.1.0
 setuptools==80.9.0
 shellingham==1.5.4
 six==1.17.0
@@ -106,6 +113,7 @@ SQLAlchemy==2.0.42
 starlette==0.47.2
 sympy==1.14.0
 tenacity==9.1.2
+threadpoolctl==3.6.0
 tokenizers==0.21.4
 tomlkit==0.13.3
 torch==2.8.0
